@@ -6,24 +6,21 @@
   quote: >
     회원수 58만, 누적 학습회수 1500만건의 에듀테크 서비스
   description: | # this will include new lines to allow paragraphs
-    * 사내 모니터링 & 알람 도입 (APM / CloudWatch & Lambda)
-    * PostgreSQL 성능 튜닝 및 장애 대응
-    * 개발파트 채용 브랜딩 개선 ([백엔드](https://www.notion.so/inflab/NodeJS-c3df214ebb28423092f6798122156c4d) / [프론트엔드](https://www.notion.so/inflab/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642))
-    * 테스트 코드 & 코드리뷰 & 아키텍처 개선 등 개발환경 개선
-    * K-startup 예비창업자 특화패키지 ‘스마트도시협회’로부터 선정 및 지원금 유치
+    * Planned, designed, and engineered a whole SaaS platform product using Django.
+    *	Focused on software, business development, and strategy. Developed marketing, sales, and investment.
+    *	Received investment from ‘Korean Ministry of SMEs and Startups’, called ‘예비창업자 특화패키지’.
+
 - layout: left
   company: Next Challenge
-  link: https://www.woowahan.com/
-  job_title: Management Intern and SEO Developer
+  link: http://www.ncf.or.kr
+  job_title: Management Intern</br>and SEO Developer
   dates: 2019.06 ~ 2019.07
   quote: >
    MAU 1,300만, 일 주문 300만건의 커머스 서비스
   description: | # this will include new lines to allow paragraphs
-     * 대규모 트래픽, 데이터 환경에서의 API/Batch 개발
-     * 정산, 포인트, 주문 시스템의 레거시 개편
-     * 업계 최초 일정산, 광고 정산 등 비지니스 지원
-     * IDC / AWS 환경 모두에서 무중단 배포, 성능 테스트, 운영 시스템 구축
-     * 2019년 상반기 <mark>우수사원</mark> 수상
+     * Helped manage co-working space, digital nomad program and supported work for startups.
+     * Utilized AWS and analytics to make the SEO search console process in Google and Naver.
+
 # - layout: left
 #   company: 줌인터넷
 #   link: https://zum.com
