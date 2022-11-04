@@ -1,0 +1,20 @@
+- layout: left
+  name: 중앙대학교
+  dates: 2016.03 ~ 2022.06
+  link: Seoul, South Korea
+  quote: >
+    B.S. 수학과, 소프트웨어벤처학(소프트웨어, 창업학, 경영학)
+  description: | # this will include new lines to allow paragraphs
+    * 신규 개편할 포인트 시스템의 AWS 인프라 구축이 필요해 참여
+    * Related Courses: 선형대수학, 미적분학, 확률과 통계, 소프트웨어공학•프로젝트, 데이터베이스설계, 알고리즘, 자료구조, 마케팅리서치, 경영학원론, 고객개발과 마케팅 전략, 벤처창업경영론 등
+    * 의무경찰소속 독도경비대로 병역만기제대 (Mar 2017 ~ Dec 2018)
+- layout: left
+  name: Northeastern University
+  dates: 2019.04 ~ 2019.06
+  link: Seoul, South Korea
+  quote: >
+    노스이스턴대 기업가정신 국제교류 프로그램
+  description: | # this will include new lines to allow paragraphs
+    * 판교 벤처기업의 북미사업확장 전략을 모색을 위한 기업, 북미시장분석 집중의 기업가정신 국제교류 컨설팅 프로그램
+    * Related Courses: 해외 경영컨설팅, 글로벌 기업가정신과 혁신, 마케팅, 글로벌 시장조사
+    
