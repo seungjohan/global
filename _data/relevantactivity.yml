@@ -20,7 +20,7 @@
 
 - layout: left
   name: Global innovator Festa
-  link: https://github.com/spring-projects/spring-batch/pulls?q=is%3Apr+author%3Ajojoldu
+  link: 
   quote: >
     5th Global innovator Festa hackathon contest
   description: | # this will include new lines to allow paragraphs
@@ -28,10 +28,10 @@
     * 업무 진행하면서 발견된 이슈에 한해서 계속 PR 요청
 
 - layout: left
-  name: Incheon Center for Creative Economy & Innovation 8th Startup School
-  link: https://github.com/jojoldu/spring-boot-aws-mock
+  name: ICCE Startup School
+  link: 
   quote: >
-    AWS Mocking용 Spring Boot Starter
+    Incheon Center for Creative Economy & Innovation 8th Startup School
   description: | # this will include new lines to allow paragraphs
     * AWS의 메세징 큐 서비스인 SQS 개발 할때마다 OTP 인증이 필요한게 귀찮아서 개발
     * 여러 개발자들이 격리화된 AWS 환경에서 개발할 수 있게 지원하는 Mocking 라이브러리
