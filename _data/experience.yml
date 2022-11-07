@@ -4,36 +4,12 @@
   job_title: CEO(co-founder), Product Manager, and Software Developer
   dates: 2020.01 ~ 2021.07
   quote: >
-    회원수 58만, 누적 학습회수 1500만건의 에듀테크 서비스
+    Selling leftover foods closed with expired date or stock items at low prices and Encouraging users to save the environment together.
   description: | # this will include new lines to allow paragraphs
     * Had Interviews small business owners and prospective clients over 300 and Focused on business development, strategy, marketing, sales and investment.
     * Planned, designed, and engineered full-stack B2B2C SaaS platform product using Django, Bootstrap, AWS, and Payment Module based on customer and business development.
     * Made MAU 100+, small sales, and developed products with 2 stores out of 5 partnership companies.
     *	Received investment from ‘Korean Ministry of SMEs and Startups’, called ‘예비창업자 특화패키지’.
-
-- layout: left
-  company: Webeing
-  link: https://github.com/oereo/Webeing
-  job_title: CEO(co-founder), Product Manager, and Software Developer
-  dates: 2020.01 ~ 2021.07
-  quote: >
-    유통기한 임박식품과 재고식품을 환경보호 가치실현과 저렴한 가격으로 소비자에게 제공하는 플랫폼
-  description: | # this will include new lines to allow paragraphs
-    * 300명 이상의 소상공인 및 유저인터뷰 및 고객개발을 통한 사업 기획, 전략 및 마케팅 집중개발. 
-    * 고객개발 및 사업기획을 바탕으로 Django, Bootstrap, AWS, 결제 모듈 등을 이용해 B2B2C 플랫폼의 SaaS 프로덕트 기획, 디자인 그리고 풀스텍 개발을 전담.([프로덕트 개발](https://brunch.co.kr/@hieut/1) / [프로토타입 디자인](https://brunch.co.kr/@hieut/2))
-    * MAU 100+, 소규모매출 기록, 초기제휴업체 5개 중 2개의 스티키니스와 제품 집중개발. 
-    * K-startup 예비창업자 특화패키지 ‘스마트도시협회’로부터 선정 및 지원금 유치.
-- layout: left
-  company: Next Challenge, Startup Bay
-  link: http://www.ncf.or.kr
-  job_title: Management Intern and SEO Developer
-  dates: 2019.06 ~ 2019.07
-  quote: >
-   제주 서귀포지역 글로벌 엑셀러레이터
-  description: | # this will include new lines to allow paragraphs
-     * 코워킹 스페이스, Work Marathon Digital Nomad 프로그램 관리 및 입주기업 업무 지원.
-     * AWS(EC2, E3), analytics를 이용하여 구글과 네이버에 SEO search console 초기 세팅 및 관리.
-
 
 - layout: left
   company: Next Challenge
@@ -44,7 +20,7 @@
    Global Accerlator based on Jeju 
   description: | # this will include new lines to allow paragraphs
      * Helped manage co-working space, digital nomad program and supported work for startups.
-     * Utilized AWS and analytics to make the SEO search console process in Google and Naver.
+     * Utilized AWS(EC2, E#) and analytics to initial setup and manage the SEO search console process in Google and Naver.
 
 # - layout: left
 #   company: 줌인터넷
