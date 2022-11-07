@@ -1,6 +1,6 @@
 <div class="container education-container">
     <h3>{{ site.education_title | default: "Relevant Skills" }}</h3>
-    <p class="quote">공부, 업무, 프로젝트에 사용하거나 학습을 하였던 기술들입니다.</p>
+    <p class="quote">I used these skills for study, projects and works.</p>
     {% for education in site.data.relevantskill %}
         {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
     {% endfor %}

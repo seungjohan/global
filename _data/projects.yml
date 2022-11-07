@@ -1,37 +1,33 @@
 - layout: top-middle
   name: Connect To
-  link: 
+  link:
+  dates: Current
   quote: >
-    Current
+    머신러닝 그래프이론을 이용해 개인과 그룹, 그룹과 그룹 간의 시너지를 분석해 인력채용, 모임, 외주, 여러 매칭 등의 형성에 솔루션을 제공할 수 있는 프로젝트.
   description: | # this will include new lines to allow paragraphs
-    * 인프랩 개발 파트 리딩 (2021.04.20 ~ 현재)
-    * 배달의 민족 정산 시스템팀 개발 파트 리딩 (2019.07.01 ~ 2021.04.19)
-    * 배달의 민족 포인트 개편 TF 리딩 (2018.04.01 ~ 2018.07.31)
-
+    * 채용, 모임, 스터디 등 다양한 분야의 니즈를 대상으로 고객인터뷰 50+ 진행 중.
+    * 머신러닝 그래프이론 학습 중.
+    
 - layout: top-middle
   name: Busking Town
-  link:
-  quote: >
+  link: https://seungjohan.notion.site/Busking-Town-65071af5ac4044f1b8bfb9f89a3f8ff9
+  dates: 2022.09 - 2022.01
+  quote: > 
+    홍대지역자원을 활용해 아티스트와 리스너 간의 자유로운 소통을 제공할 메타버스 온라인 버스킹 플랫폼.
   description: | # this will include new lines to allow paragraphs
-    * 인프런 RDS -> Aurora 마이그레이션 (2021.06.01 ~ 2021.06.20)
-    * [배달의 민족 정산 시스템 AWS 마이그레이션](https://www.youtube.com/watch?v=3ynQeAZpk4Y) (2020.06.01 ~ 2020.11.20)
-    * [배달의 민족 주문 시스템 개편](https://jojoldu.tistory.com/373) (2018.08.01 ~ 2018.10.31)
-    * [배달의 민족 포인트 시스템 개편](http://bit.ly/2EcIXIA) (2018.04.01 ~ 2018.07.31)
-    * [배달의 민족 정산 시스템 개편](http://bit.ly/2ksIEQB) (2017.01.01 ~ 2017.08.17)
+    * 고객인터뷰 100+ 진행을 바탕으로 메타버스(게더타운) 프로토타입 개발 및 MVP테스트 1회 진행
+    * LINC+ 캡스톤 디자인 창업부문 최우수상 수상
+    * [게더타운 프로토타입](https://app.gather.town/app/ORnrS2mURQotPDXG/HONGDAE%20BUSKING)
 
 - layout: top-middle
   name: BEUS
-  link:
+  link: https://seungjohan.notion.site/Travel-CP-Content-Provider-77eae3e646594fa9881f9c82c5a9d906
+  dates: 2019
   quote: >
+    한국을 방문하는 여행객들에게 한국인CP(Content Provider)와 외국인CP가 함께 높은 만족도의 여행정보 및 가이드를 제공하는 서비스.
   description: | # this will include new lines to allow paragraphs
-    * 인프런 PostgreSQL SlowQuery 전체 튜닝
-    * 일 주문 300만건의 정산 시스템 API / Batch 개발 및 운영
-    * 일 주문 100만건의 포인트 시스템 메세지큐 / API / Batch 개발 및 운영
-    * 일 PV 2000만건의 포털 메인페이지 개발 및 관리
-    * Message Queue (AWS SQS) 를 이용한 비동기 포인트 처리 / 메일 발송 시스템 구현
-    * [대용량 Batch 시스템 구현](https://jojoldu.tistory.com/category/Spring%20Batch)
-    * [Pinpoint/Ngrinder를 통한 성능 테스트 및 개선](https://jojoldu.tistory.com/318)
-    * [JPA / Querydsl / MySQL 성능 개선](https://jojoldu.tistory.com/tag/db%20%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0)
+    * 한국거주경험이 있는 외국인과 한국인이 함께 한국을 방문한 외국인여행객들에게 높은 질의 만족도 높은 여행정보를 제공하는 경험을 만들어 내었음. 
+    * 북미, 유럽, 중앙아시아 외국인유저를 대상으로 MVP 테스트 15회 진행.
 
 # - layout: top-middle
 #   name: 견고한 데이터 구조 및 애플리케이션 설계
