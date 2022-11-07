@@ -12,9 +12,9 @@
 - layout: left
   name: Languages
   description: | # this will include new lines to allow paragraphs
-    * 한국어(Native)
-    * 영어(B2)
-    * 스페인어(A1)
+    * Korean (Native)
+    * English (B2)
+    * Spanish (A1)
     
 
   

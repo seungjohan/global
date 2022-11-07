@@ -42,6 +42,12 @@ about_content: | # this will include new lines to allow paragraphs
   Experiences in business, software engineering, communication, and leadership have enabled me to become the professional I am today.<br/>
   My main goal is to leave my mark in line with my personal ideas, drawing on my past experiences to promote the ongoing expansion of innovation in the company.
 
+  I'm Seungjo Han, a Generalist Junior Product Manager who is challenging by bumping into each other.<br/>
+  I led several projects and took the role as PO in Software, Business, Leadership and Design.<br/>
+  I do believe the **positive power from the growth through overcoming limitations and making impact together with people.** 
+  So I'm always trying to experience different kinds of fields and aggressively communicate as much as I can.<br/> 
+  I feel responsible for delivering positive impact and enjoy meeting customers, making change through developing ideas no matter of the size.
+
 # Experience Section
 experience_title: Experience
 
@@ -59,8 +65,8 @@ relevantactivity_title: Relevant Activities
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
    - [SWUNIV Interview - Representative of Chung-Ang University](https://www.swuniv.kr/540522002/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=11283510&t=board)
-   - ['Try Everything' Contest - Presentation at Final Stage](https://www.youtube.com/watch?v=mSL0u0BzCFI)
    - [Interview - Dokdo Security Guard](https://www.youtube.com/watch?v=gNynVJSoEmk)
+   - ['Try Everything' Contest - Presentation at Final Stage](https://www.youtube.com/watch?v=mSL0u0BzCFI)
   
 # Footer
 footer_show_references: true
