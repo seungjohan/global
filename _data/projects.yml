@@ -5,19 +5,19 @@
   quote: >
     머신러닝 그래프이론을 이용해 개인과 그룹, 그룹과 그룹 간의 시너지를 분석해 인력채용, 모임, 외주, 여러 매칭 등의 형성에 솔루션을 제공할 수 있는 프로젝트.
   description: | # this will include new lines to allow paragraphs
-    * 채용, 모임, 스터디 등 다양한 분야의 니즈를 대상으로 고객인터뷰 50+ 진행 중.
-    * 머신러닝 그래프이론 학습 중.
+    * Accomplished customer interview 50+ related to Hiring, Groups, Meeting, and Study club.
+    * Learning the theory, Machine Learning with Graphs.
     
 - layout: top-middle
   name: Busking Town
   link: https://seungjohan.notion.site/Busking-Town-65071af5ac4044f1b8bfb9f89a3f8ff9
   dates: 2022.09 - 2022.01
   quote: > 
-    홍대지역자원을 활용해 아티스트와 리스너 간의 자유로운 소통을 제공할 메타버스 온라인 버스킹 플랫폼.
+    Metaverse Online Busking Platform to enable artists to perform and communicate with audiences through local resources.
   description: | # this will include new lines to allow paragraphs
-    * 고객인터뷰 100+ 진행을 바탕으로 메타버스(게더타운) 프로토타입 개발 및 MVP테스트 1회 진행
-    * LINC+ 캡스톤 디자인 창업부문 최우수상 수상
-    * [게더타운 프로토타입](https://app.gather.town/app/ORnrS2mURQotPDXG/HONGDAE%20BUSKING)
+    * Developed MetaVerse Prototype with Gathertown and Had MVP test 1 time based on customer interview 100+.
+    * LINC+ CAPSTONE DESIGN 2nd price
+    * [Gathertown Prototype](https://app.gather.town/app/ORnrS2mURQotPDXG/HONGDAE%20BUSKING)
 
 - layout: top-middle
   name: BEUS
@@ -26,9 +26,8 @@
   quote: >
     한국을 방문하는 여행객들에게 한국인CP(Content Provider)와 외국인CP가 함께 높은 만족도의 여행정보 및 가이드를 제공하는 서비스.
   description: | # this will include new lines to allow paragraphs
-    * 한국거주경험이 있는 외국인과 한국인이 함께 한국을 방문한 외국인여행객들에게 높은 질의 만족도 높은 여행정보를 제공하는 경험을 만들어 내었음. 
-    * 북미, 유럽, 중앙아시아 외국인유저를 대상으로 MVP 테스트 15회 진행.
-
+    * Created an experience for visitors to Korea providing high-quality touristic recommendations from the both perspective of Koreans and foreigners who already have stayed in Korea
+    * Accomplished MVP test more than 15 times with foriegner users from North America, Europe, and Middle Asia.
 # - layout: top-middle
 #   name: 견고한 데이터 구조 및 애플리케이션 설계
 #   link:
