@@ -1,5 +1,5 @@
 - layout: left
-  name: LikeLion
+  name: Likelion
   dates: 2020.03 ~ 2020.12
   link: https://www.likelion.net
   quote: >
@@ -8,60 +8,44 @@
     * Studied the process of developing web-based SaaS products from conception to implementation.
     * Related Courses: Django, HTML5, CSS, JavaScript, AWS. Node.js, UX•UI, AdobeXd, Figma
     * ‘Korea Online Hackathon’ 2nd price by Lotte Corporation and Likelion
-
 - layout: left
-  name: 'LINC+ CAPSTONE DESIGN' AND 'DAVINCI SW•AI Tech Fair'
+  name: "'LINC+ CAPSTONE DESIGN' AND<br/> 'DAVINCI SW•AI Tech Fair'"
+  dates: 2019, 2020
   link: 
   quote: >
     College Software and Startup Contest by Chung-Ang University
   description: | # this will include new lines to allow paragraphs
-    * 
-
+    * Developed projects and led the team. Meatverse using "'Gathertown'"", Application with Blockchain, Web-based SaaS product prototype.
+    * CAPSTONE DESIGN 2nd price, SW•AI Tech Fair 3rd price.
 - layout: left
-  name: Global innovator Festa
-  link: 
+  name: 5th Global innovator Festa 
+  link: https://www.gifesta.kr
+  dates: Sep 2019 - Nov 2019
   quote: >
     5th Global innovator Festa hackathon contest
   description: | # this will include new lines to allow paragraphs
-    * 커머스 서비스를 운영하면서 Spring Batch에 본격적으로 입문
-    * 업무 진행하면서 발견된 이슈에 한해서 계속 PR 요청
-
+    * Suggested a solution by applying Korean advanced technology into Kazakhstan's tranportation problem, using information polarization with Kazakhstan friends.
+    * Global Challenger Award
+# - layout: left
+#   name: ICCE Startup School
+#   link: 
+#   quote: >
+#     Incheon Center for Creative Economy & Innovation 8th Startup School
+#   description: | # this will include new lines to allow paragraphs
+#     * Related Course: Marketing, Business development, 
 - layout: left
-  name: ICCE Startup School
-  link: 
+  name: Jeju Entrepreneurship DIGITAL NOMAD 100hours Work Marathon
+  link: https://www.instagram.com/p/B0Hn_BrH-0k/?igshid=YmMyMTA2M2Y=
   quote: >
-    Incheon Center for Creative Economy & Innovation 8th Startup School
+    Entrepreneurship Program, Work Marathon
   description: | # this will include new lines to allow paragraphs
-    * AWS의 메세징 큐 서비스인 SQS 개발 할때마다 OTP 인증이 필요한게 귀찮아서 개발
-    * 여러 개발자들이 격리화된 AWS 환경에서 개발할 수 있게 지원하는 Mocking 라이브러리
-    * 별도로 <mark>Docker 설치 없이</mark> 프로젝트를 실행할수 있게 <mark>H2와 같은 사용성</mark> 지원
-    * ElasticMQ 등 사용
-    * 오픈 초기에는 사내 여러 팀, 서비스에서도 사용
-    * [AWS Localstack](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)의 발견으로 확장하지 않을 예정
-
-- layout: left
-  name: Jeju Entrepreneurship Digital Nomad 1st BATCH, 100hours Work Marathon
-  link: https://github.com/jojoldu/translator
-  quote: >
-    IntelliJ IDEA 기반 IDE에서 사용할 수 있는 번역 플러그인
-  description: | # this will include new lines to allow paragraphs
-    * 구글/네이버 사전을 검색하기 위해 개발 중간 중간 화면 이동하는게 귀찮아서 개발
-    * JavaDoc 번역, 변수명 짓기 등 영문 <-> 한글 번역 지원
-    * PC 애플리케이션의 Freezing을 막기 위해 모든 이벤트를 <mark>논블로킹</mark>으로
-    * Java8 <mark>CompletableFuture</mark> 기반 구현 및 테스트 코드 작성
-
-- layout: left
-  name: Chung-Ang Startup Business Club
-  # link: https://github.com/jojoldu/translator
-  quote: >
-    IntelliJ IDEA 기반 IDE에서 사용할 수 있는 번역 플러그인
-  description: | # this will include new lines to allow paragraphs
-    * 구글/네이버 사전을 검색하기 위해 개발 중간 중간 화면 이동하는게 귀찮아서 개발
-    * JavaDoc 번역, 변수명 짓기 등 영문 <-> 한글 번역 지원
-    * PC 애플리케이션의 Freezing을 막기 위해 모든 이벤트를 <mark>논블로킹</mark>으로
-    * Java8 <mark>CompletableFuture</mark> 기반 구현 및 테스트 코드 작성
-
-
-
-
+    * Cooperated with Digital Nomads like CEO, Engineer, and Designer from all over the world and Learned about Entrepreneurship, Marketing and Business.
+    * Supported Data processing in Imaging AI, Educational business contents, and making character business product prototype.
+# - layout: left
+#   name: Chung-Ang Startup Business Club 'Sunday'
+#   link: 
+#   quote: >
+    
+#   description: | # this will include new lines to allow paragraphs
+#     * 구글/네이버 사전을 검색하기 위해 개발 중간 중간 화면 이동하는게 귀찮아서 개발
     
