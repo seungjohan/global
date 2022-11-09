@@ -36,15 +36,15 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I try constantly to challenge myself.<br/>
-  Experiences in business, software engineering, communication, and leadership have enabled me to become the professional I am today.<br/>
-  My main goal is to leave my mark in line with my personal ideas, drawing on my past experiences to promote the ongoing expansion of innovation in the company.
-
   I'm Seungjo Han, a Generalist Junior Product Manager who is challenging by bumping into each other.<br/>
-  I led several projects and took the role as PO in Software, Business, Leadership and Design.<br/>
-  I do believe the **positive power from the growth through overcoming limitations and making impact together with people.** 
+  I led several projects and took the role as PO in Software, Business, Leadership, and Design.<br/>
+  I do believe the **positive power from the growth through overcoming limitations and making an impact together with people.** 
   So I'm always trying to experience different kinds of fields and aggressively communicate as much as I can.<br/> 
-  I feel responsible for delivering positive impact and enjoy meeting customers, making change through developing ideas no matter of the size.
+  I feel responsible for delivering positive impact and enjoy meeting customers and making changes through developing ideas no matter the size.
+
+# I try constantly to challenge myself.<br/>
+# Experiences in business, software engineering, communication, and leadership have enabled me to become the professional I am today.<br/>
+# My main goal is to leave my mark in line with my personal ideas, drawing on my past experiences to promote the ongoing expansion of innovation in the company.
 
 # Experience Section
 experience_title: Experience

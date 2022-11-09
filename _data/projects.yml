@@ -3,7 +3,7 @@
   link:
   dates: Current
   quote: >
-    머신러닝 그래프이론을 이용해 개인과 그룹, 그룹과 그룹 간의 시너지를 분석해 인력채용, 모임, 외주, 여러 매칭 등의 형성에 솔루션을 제공할 수 있는 프로젝트.
+    Using ML with Graphs theory to analyze the synergy between person to group and group to group.
   description: | # this will include new lines to allow paragraphs
     * Accomplished customer interview 50+ related to Hiring, Groups, Meeting, and Study club.
     * Learning the theory, Machine Learning with Graphs.
@@ -24,7 +24,7 @@
   link: https://seungjohan.notion.site/Travel-CP-Content-Provider-77eae3e646594fa9881f9c82c5a9d906
   dates: 2019
   quote: >
-    한국을 방문하는 여행객들에게 한국인CP(Content Provider)와 외국인CP가 함께 높은 만족도의 여행정보 및 가이드를 제공하는 서비스.
+    Travel and Tourism Platform for providing high-quality touristic recommendations by Korean and foreigner CP(Content Provider).
   description: | # this will include new lines to allow paragraphs
     * Created an experience for visitors to Korea providing high-quality touristic recommendations from the both perspective of Koreans and foreigners who already have stayed in Korea
     * Accomplished MVP test more than 15 times with foriegner users from North America, Europe, and Middle Asia.

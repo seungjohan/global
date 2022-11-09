@@ -6,7 +6,7 @@
   quote: >
     Selling leftover foods closed with expired date or stock items at low prices and Encouraging users to save the environment together.
   description: | # this will include new lines to allow paragraphs
-    * Had Interviews small business owners and prospective clients over 300 and Focused on business development, strategy, marketing, sales and investment.
+    * Had Interviews with small business owners and prospective clients over 300 and focused on business development, strategy, marketing, sales and investment.
     * Planned, designed, and engineered full-stack B2B2C SaaS platform product using Django, Bootstrap, AWS, and Payment Module based on customer and business development.
     * Made MAU 100+, small sales, and developed products with 2 stores out of 5 partnership companies.
     *	Received investment from ‘Korean Ministry of SMEs and Startups’, called ‘예비창업자 특화패키지’.
@@ -19,8 +19,8 @@
   quote: >
    Global Accerlator based on Jeju 
   description: | # this will include new lines to allow paragraphs
-     * Helped manage co-working space, digital nomad program and supported work for startups.
-     * Utilized AWS(EC2, E#) and analytics to initial setup and manage the SEO search console process in Google and Naver.
+     * Helped manage co-working space, digital nomad program, and supported work for startups.
+     * Utilized AWS(EC2, Elastic beanstalk) and analytics to initial setup and manage the SEO search console process in Google and Naver.
 
 # - layout: left
 #   company: 줌인터넷
