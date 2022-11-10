@@ -62,9 +62,9 @@ relevantactivity_title: Relevant Activities
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-   - [SWUNIV Interview - Representative of Chung-Ang University](https://www.swuniv.kr/540522002/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=11283510&t=board)
-   - [Interview - Dokdo Security Guard](https://www.youtube.com/watch?v=gNynVJSoEmk)
-   - ['Try Everything' Contest - Presentation at Final Stage](https://www.youtube.com/watch?v=mSL0u0BzCFI)
+   - ["[Interview]" SWUNIV Interview, Representative of Chung-Ang University](https://www.swuniv.kr/540522002/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=11283510&t=board)
+   - ["[Interview]" Dokdo Security Guard](https://www.youtube.com/watch?v=gNynVJSoEmk)
+   - ["[Presentation]" 'Try Everything' Contest at Final Stage](https://www.youtube.com/watch?v=mSL0u0BzCFI)
   
 # Footer
 footer_show_references: true
