@@ -1,7 +1,7 @@
 # Site
 repository: seungjohan/korea
 favicon: images/favicon.ico
-og:images: images/profile.png
+og_images: images/profile.png
 
 # Personal info
 name: Seungjo Han
