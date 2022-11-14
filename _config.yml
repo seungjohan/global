@@ -1,7 +1,7 @@
 # Site
 repository: seungjohan/korea
 favicon: images/favicon.ico
-og:images: images/profile.jpg
+og:images: images/profile.png
 
 # Personal info
 name: Seungjo Han
@@ -35,7 +35,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   I'm Seungjo Han, a **Generalist Junior Product Manager. #Dynamic #Self-Starter #Team Player**<br/>
   I led several projects and took the role as <mark>PM</mark> in Software, Business, Leadership, and Design.<br/>
