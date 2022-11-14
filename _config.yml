@@ -1,6 +1,7 @@
 # Site
 repository: seungjohan/korea
 favicon: images/favicon.ico
+og:images: images/profile.jpg
 
 # Personal info
 name: Seungjo Han
@@ -71,7 +72,6 @@ footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
-og_images: images/profile.jpg
 
 sass:
   sass_dir: _sass
