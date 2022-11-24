@@ -2,7 +2,7 @@
   name: Software
   description: | # this will include new lines to allow paragraphs
     * Python &#124; C &#124; SQL &#124; HTML5 &#124; CSS &#124; JavaScript
-    * Git &#124; Django &#124; Bootstrap &#124; MySQL &#124; AWS (Elastic beanstalk, EC2, S3) &#124; Docker &#124; Node.js
+    * Git &#124; Django &#124; Bootstrap &#124; MySQL &#124; AWS (Elastic beanstalk, EC2, S3) &#124; Node.js
 - layout: left
   name: Analytics and Design
   description: | # this will include new lines to allow paragraphs
