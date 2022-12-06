@@ -26,10 +26,10 @@ github_username:  seungjohan
 additional_links:
 - title: medium
   icon: "fab fa-medium" # Change Medium logo to "fa-brands fa-medium" later
-  url: https://medium.com/konnellwaldron
+  url: https://konnellwaldron.medium.com/
 - title: brunch
   icon: "fab fa-blogger" # Change Medium logo to "fa-brands fa-medium" later
-  url: https://brunch.co.kr/@konnellwaldron
+  url: https://brunch.co.kr/@konnellwaldron/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
