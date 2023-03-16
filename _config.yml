@@ -1,5 +1,5 @@
 # Site
-repository: seungjohan/korea
+repository: seungjohan/global
 favicon: images/favicon.ico
 og:images: images/profile.jpg
 
@@ -54,11 +54,14 @@ experience_title: Experience
 # Education Section
 educaton_title: Education
 
+# Relevant Activities
+relevantactivity_title: Relevant Activities
+
 # Projects Section
 projects_title: Projects
 
-# Relevant Activities
-relevantactivity_title: Relevant Activities
+# Freelancing Section
+freelancing_title: Freelancing
 
 
 # More Section
@@ -80,3 +83,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+github: [metadata]

@@ -50,6 +50,10 @@
                 {%- include projects.html -%}
             {%- endif -%}
 
+            {%- if site.data.freelancing.size > 0 -%}
+            {%- include freelancing.html -%}
+            {%- endif -%}
+
             {%- include more.html -%}
 
         </div>

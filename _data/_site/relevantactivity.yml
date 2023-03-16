@@ -1,0 +1,52 @@
+- layout: left
+  name: Likelion
+  dates: 2020.03 ~ 2020.12
+  link: https://www.likelion.net
+  quote: >
+    Student-run Tech Entrepreneurship Community that helps students solve real-world problems and develop their ideas into competitive products using programming.
+  description: | # this will include new lines to allow paragraphs
+    * Studied the process of developing web-based SaaS products from conception to implementation.
+    * Related Courses: Django, HTML5, CSS, JavaScript, AWS. Node.js, UX•UI, AdobeXd, Figma
+    * ‘Korea Online Hackathon’ [2nd price]((https://youtu.be/JtMS59XpnyM?t=231)) by Lotte Corporation and Likelion
+- layout: left
+  name: "'LINC+ Capstone Design' and<br/> 'Davinci SW•AI Tech Fair'"
+  dates: 2019, 2020
+  link: 
+  quote: >
+    College Software and Startup Contest by Chung-Ang University
+  description: | # this will include new lines to allow paragraphs
+    * Developed and led the projects, [Meatverse using "'Gathertown'"](https://app.gather.town/app/ORnrS2mURQotPDXG/HONGDAE%20BUSKING), Application with Blockchain, and [Web-based SaaS product prototype](http://causw.com/swidea/117).
+    * CAPSTONE DESIGN 2nd price, SW•AI Tech Fair 3rd price.
+- layout: left
+  name: 5th Global innovator Festa 
+  link: https://www.gifesta.kr
+  dates: Sep 2019 - Nov 2019
+  quote: >
+    5th Global innovator Festa hackathon contest
+  description: | # this will include new lines to allow paragraphs
+    * Suggested a solution by applying Korean advanced technology into Kazakhstan's tranportation problem, using information polarization with Kazakhstan friends.
+    * Global Challenger Award
+# - layout: left
+#   name: ICCE Startup School
+#   link: 
+#   quote: >
+#     Incheon Center for Creative Economy & Innovation 8th Startup School
+#   description: | # this will include new lines to allow paragraphs
+#     * Related Course: Marketing, Business development, 
+- layout: left
+  name: Jeju Entrepreneurship DIGITAL NOMAD 100hours Work Marathon
+  link: https://www.instagram.com/p/B0Hn_BrH-0k/?igshid=YmMyMTA2M2Y=
+  dates: Jun 2019 - Jul 2019
+  quote: >
+    Entrepreneurship Program, Work Marathon
+  description: | # this will include new lines to allow paragraphs
+    * Cooperated with Digital nomads like CEO, Engineer, and Designer from all over the world and Learned about entrepreneurship, marketing and business.
+    * Supported data processing in Imaging AI, Educational business contents, and making Character business product prototype.
+# - layout: left
+#   name: Chung-Ang Startup Business Club 'Sunday'
+#   link: 
+#   quote: >
+    
+#   description: | # this will include new lines to allow paragraphs
+#     * 구글/네이버 사전을 검색하기 위해 개발 중간 중간 화면 이동하는게 귀찮아서 개발
+    

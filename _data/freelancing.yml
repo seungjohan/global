@@ -1,0 +1,26 @@
+- layout: left
+  name: SEO Developing
+  dates: 
+  link: 
+  quote: >
+    .
+  description: | # this will include new lines to allow paragraphs
+    * [Curve Analytics](https://curveanalytics.co.uk/)
+- layout: left
+  name: Translation • Interpretation
+  dates: 
+  link: 
+  quote: >
+    . 
+  description: | # this will include new lines to allow paragraphs
+    * [Zentorpy]
+    * [100cation]
+- layout: left
+  name: Protype Developing
+  dates: 
+  link: 
+  quote: >
+    .
+  description: | # this will include new lines to allow paragraphs
+    * [Botanic Monsters](https://www.instagram.com/botanicmonsters/) 
+
