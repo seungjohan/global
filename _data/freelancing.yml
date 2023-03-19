@@ -7,14 +7,14 @@
   description: | # this will include new lines to allow paragraphs
     * [Curve Analytics](https://curveanalytics.co.uk/)
 - layout: left
-  name: Translation • Interpretation
+  name: Translation & Interpretation
   dates: 
   link: 
   quote: >
-    . 
+    .
   description: | # this will include new lines to allow paragraphs
-    * [Zentorpy]
-    * [100cation]
+    * [Zentorpy](https://www.zentropy.co.kr)
+    * [100cation](https://blog.naver.com/100cation/222072509533)
 - layout: left
   name: Protype Developing
   dates: 
@@ -22,5 +22,4 @@
   quote: >
     .
   description: | # this will include new lines to allow paragraphs
-    * [Botanic Monsters](https://www.instagram.com/botanicmonsters/) 
-
+    * [Botanic Monsters](https://www.instagram.com/botanicmonsters/)
