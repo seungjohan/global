@@ -36,9 +36,10 @@ additional_links:
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-gtm: "GTM-KGG8BQX"
-gtag: "G-BRXYDTH14E"
-google_analytics: "UA-261328456-1"
+gtm: 'GTM-KGG8BQX'
+gtag: 'G-BRXYDTH14E' #4 proporties G-MN20MXLN3C
+google_analytics: 'UA-261328456-1'
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
