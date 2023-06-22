@@ -11,12 +11,12 @@
   name: Busking Town
   link: https://seungjohan.notion.site/Busking-Town-65071af5ac4044f1b8bfb9f89a3f8ff9
   dates: 2022.09 - 2022.01
-  quote: > 
+  quote: >
     Metaverse online Busking platform to enable artists to perform and communicate with audiences through local resources.
   description: | # this will include new lines to allow paragraphs
     * Developed Metaverse prototype with Gathertown and had a MVP test 1 time based on customer interview 100+.
     * LINC+ CAPSTONE DESIGN 2nd price
-    * [Gathertown Prototype](https://app.gather.town/app/ORnrS2mURQotPDXG/HONGDAE%20BUSKING)
+    * [Gathertown Prototype](https://app.gather.town/app/E5ysIt1kaIrPAxmC/buskingtown_hongdae)
 - layout: top-middle
   name: LITER
   link: https://drive.google.com/file/d/1rKW2ghDVrssIQyCRxliaR4swfmdpgETu/view?usp=sharing
@@ -36,6 +36,7 @@
   description: | # this will include new lines to allow paragraphs
     * Created an experience for visitors to Korea providing high-quality touristic recommendations from the both perspective of Koreans and foreigners who already have stayed in Korea
     * Accomplished MVP test more than 15 times with foreign users from North America, Europe, and Middle Asia.
+
 # - layout: top-middle
 #   name: 견고한 데이터 구조 및 애플리케이션 설계
 #   link:
