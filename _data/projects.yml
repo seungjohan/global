@@ -20,7 +20,7 @@
 - layout: top-middle
   name: Webeing
   link: https://seungjohan.notion.site/Webeing-e5424ca323644024840746e625a8d1e9?pvs=4
-  link: https://github.com/oereo/Webeing  
+  link: https://github.com/oereo/Webeing
   dates: Jan 2020 - Jul 2021
   quote: >
     Selling leftover foods closed with expired date or stock items at low prices and encouraging users to save the environment together.
@@ -29,7 +29,7 @@
     * **[Tech Stack]** Python, Django, HTML, CSS, JavaScript, Bootstrap, Vue.js, AWS, Git
 - layout: top-middle
   name: LITER
-  link: https://seungjohan.notion.site/LITER-590828c2f546467a89b34ec6a2b76ace?pvs=4
+  link: 
   dates: Jun 2020 - Sep 2020
   quote: >
     Point integration solution for small business cafe. Combine point coupon and wallet of several cafes, as one.
