@@ -20,7 +20,6 @@
 - layout: top-middle
   name: Webeing
   link: https://seungjohan.notion.site/Webeing-e5424ca323644024840746e625a8d1e9?pvs=4
-  link: https://github.com/oereo/Webeing
   dates: Jan 2020 - Jul 2021
   quote: >
     Selling leftover foods closed with expired date or stock items at low prices and encouraging users to save the environment together.
@@ -29,16 +28,16 @@
     * **[Tech Stack]** Python, Django, HTML, CSS, JavaScript, Bootstrap, Vue.js, AWS, Git
 - layout: top-middle
   name: LITER
-  link: 
   dates: Jun 2020 - Sep 2020
+  link: https://seungjohan.notion.site/LITER-590828c2f546467a89b34ec6a2b76ace?pvs=4
   quote: >
     Point integration solution for small business cafe. Combine point coupon and wallet of several cafes, as one.
   description: | # this will include new lines to allow paragraphs
     * A shared-economy cafe point integration solution that eliminates place restrictions that combine points and coupons provided to customers for each small cafe not franchise.
     * **[Role]** Led our team, Developed prototype, Pitching, and Market research near Dongjak-gu, Seoul
     * Advanced to the final stage of [Try Everything](https://tryeverything.or.kr) 2020 Korea Startup Audition
-    - layout: top-middle
-  name: [Project Condom] Adult Condom Vendor in Seoul
+- layout: top-middle
+  name: (Condom Project) Condom Adult Condom Vendor in Seoul
   link: https://brunch.co.kr/brunchbook/projectcondom
   dates: Oct 2019 - Dec 2019
   quote: >
