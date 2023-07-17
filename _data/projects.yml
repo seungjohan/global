@@ -19,13 +19,13 @@
     * [Gathertown Prototype](https://app.gather.town/app/E5ysIt1kaIrPAxmC/buskingtown_hongdae)
 - layout: top-middle
   name: Webeing
-  link: https://github.com/oereo/Webeing
+  link: [Service Introduction](https://seungjohan.notion.site/Webeing-e5424ca323644024840746e625a8d1e9?pvs=4), [Github](https://github.com/oereo/Webeing)
   dates: Jan 2020 - Jul 2021
   quote: >
     Selling leftover foods closed with expired date or stock items at low prices and encouraging users to save the environment together.
   description: | # this will include new lines to allow paragraphs
-    * [Tech Stack] Python, Django, HTML, CSS, JavaScript, Bootstrap, Vue.js, AWS
-    * Accomplished MVP test more than 15 times with foreign users from North America, Europe, and Middle Asia.
+    * **[Role]** Planned, designed, and engineered full-stack B2B2C platform. Accomplished business development and customer development with more than 1000 customers including resturant owners, Prospective clients, and Agricultural producers in order to validate hypothesis and find the PMF.
+    * **[Tech Stack]** Python, Django, HTML, CSS, JavaScript, Bootstrap, Vue.js, AWS, Git
 - layout: top-middle
   name: LITER
   link: https://drive.google.com/file/d/1rKW2ghDVrssIQyCRxliaR4swfmdpgETu/view?usp=sharing
@@ -33,9 +33,18 @@
   quote: >
     Point integration solution for small business cafe. Combine point coupon and wallet of several cafes, as one.
   description: | # this will include new lines to allow paragraphs
-    * A shared-economy cafe point integration solution that eliminates place restrictions that 
-    combine points and coupons provided to customers for each small cafe not franchise.
+    * A shared-economy cafe point integration solution that eliminates place restrictions that combine points and coupons provided to customers for each small cafe not franchise.
+    * **[Role]** Led our team, Developed prototype, Pitching, and Market research near Dongjak-gu, Seoul
     * Advanced to the final stage of [Try Everything](https://tryeverything.or.kr) 2020 Korea Startup Audition
+    - layout: top-middle
+  name: [Project Condom] Adult Condom Vendor in Seoul
+  link: https://brunch.co.kr/brunchbook/projectcondom
+  dates: Oct 2019 - Dec 2019
+  quote: >
+    Selling Condom during Christmas Season as a Vendor to figure out Conservative mindset regarding Condom in Korea, the Difference between Red Ocean and Blue Ocean, and Actual Business.
+  description: | # this will include new lines to allow paragraphs
+    * **[Role]** Developed Customized the product Condom for Christmas season, Accomplished Market research, Managed wholesale transaction, Financial trade, and Sales.
+    * Completed the project and made a small sales. We could learn about the personality of Korean market, Vendor, Red•Blue Ocean, Financial, and Business.
 - layout: top-middle
   name: BEUS
   link: https://seungjohan.notion.site/Travel-CP-Content-Provider-77eae3e646594fa9881f9c82c5a9d906
@@ -44,6 +53,7 @@
     Travel and tourism platform for providing high-quality touristic recommendations by Korean and foreigner CP(Content Provider).
   description: | # this will include new lines to allow paragraphs
     * Created an experience for visitors to Korea providing high-quality touristic recommendations from the both perspective of Koreans and foreigners who already have stayed in Korea
+    * **[Role]** Developed Touristic Program, Accmplish MVP tests, and Marketing to several college exchang stuents communities.
     * Accomplished MVP test more than 20 times with foreign users from Kazakhstan, Singapore, India, Spain, Germany, US, Canada, South Africa, China, etc.
 
 # - layout: top-middle

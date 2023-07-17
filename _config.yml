@@ -15,7 +15,7 @@ phone: +82 10-9908-6439
 linkedin_username: seungjohan
 
 # twitter_username: konnellwaldron
-github_username:  seungjohan
+github_username: seungjohan
 # dribbble_username: jekyll
 # facebook_username: hhieut
 # flickr_username: jekyll
@@ -24,27 +24,27 @@ github_username:  seungjohan
 
 # Additional icon links
 additional_links:
-- title: medium
-  icon: "fab fa-medium" # Change Medium logo to "fa-brands fa-medium" later
-  url: https://konnellwaldron.medium.com/
-- title: brunch
-  icon: "fab fa-blogger" # Change Medium logo to "fa-brands fa-medium" later
-  url: https://brunch.co.kr/@konnellwaldron/
+  - title: medium
+    icon: "fab fa-medium" # Change Medium logo to "fa-brands fa-medium" later
+    url: https://konnellwaldron.medium.com/
+  - title: brunch
+    icon: "fab fa-blogger" # Change Medium logo to "fa-brands fa-medium" later
+    url: https://brunch.co.kr/@konnellwaldron/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-gtm: 'GTM-KGG8BQX'
-gtag: 'G-BRXYDTH14E' #4 proporties G-MN20MXLN3C
-google_analytics: 'UA-261328456-1'
+gtm: "GTM-KGG8BQX"
+gtag: "G-BRXYDTH14E" #4 proporties G-MN20MXLN3C
+google_analytics: "UA-261328456-1"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm Seungjo Han, a **Generalist Junior Product Manager. #Dynamic #Self-Starter #Team Player**<br/>
+  I'm Seungjo Han, a **Generalist Junior Product Manager delivering various experiences. #Dynamic #Self-Starter #Team Player**<br/>
   I led several projects and took the role as <mark>PM</mark> in Software, Business, Leadership, and Design.<br/>
   I do believe the **positive power** from the growth through **overcoming limits** and **making an impact together with people.** 
   So I'm always trying to experience **different kinds of fields** and aggressively **communicate** as much as I can.<br/> 
@@ -69,14 +69,13 @@ projects_title: Projects
 # Freelancing Section
 freelancing_title: Freelancing
 
-
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-   - [[Interview] SWUNIV Interview, Representative of Chung-Ang University](https://www.swuniv.kr/540522002/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=11283510&t=board)
-   - [[Interview] Dokdo Security Guard](https://www.youtube.com/watch?v=gNynVJSoEmk)
-   - [[Presentation] 'Try Everything' Contest at Final Stage](https://www.youtube.com/watch?v=mSL0u0BzCFI)
-  
+  - [[Interview] SWUNIV Interview, Representative of Chung-Ang University](https://www.swuniv.kr/540522002/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=11283510&t=board)
+  - [[Interview] Dokdo Security Guard](https://www.youtube.com/watch?v=gNynVJSoEmk)
+  - [[Presentation] 'Try Everything' Contest at Final Stage](https://www.youtube.com/watch?v=mSL0u0BzCFI)
+
 # Footer
 footer_show_references: true
 
@@ -88,6 +87,6 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
 github: [metadata]
