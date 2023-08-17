@@ -1,8 +1,13 @@
 - layout: left
+  name: Product Management
+  description: | # this will include new lines to allow paragraphs
+    * Product Roadmapping &#124; Design Thinking &#124; User Interview &#124; Project Management &#124; Business Strategy
+    * Notion &#124; Slack &#124; &#124; Adobe XD &#124; Figma &#124; Protopie &#124; Trello &#124; Microsoft Office &#124; Google Suite
+- layout: left
   name: Software
   description: | # this will include new lines to allow paragraphs
-    * Python &#124; C &#124; SQL &#124; HTML5 &#124; CSS &#124; JavaScript
-    * Git &#124; Django &#124; Bootstrap &#124; MySQL &#124; AWS (Elastic beanstalk, EC2, S3) &#124; Node.js
+    * Python &#124; C &#124; SQL &#124; HTML5 &#124; CSS &#124; JavaScript &#124; Mobile&Web Development &#124; iOS Development
+    * Git &#124; Django &#124; Bootstrap &#124; MySQL &#124; AWS (Elastic beanstalk, EC2, S3) &#124; Node.js  &#124; MongdoDB
 - layout: left
   name: Analytics and Design
   description: | # this will include new lines to allow paragraphs
