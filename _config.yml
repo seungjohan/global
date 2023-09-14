@@ -1,0 +1,94 @@
+# Site
+repository: seungjohan/global
+favicon: images/favicon.ico
+og:images: images/profile.jpg
+
+# Personal info
+name: Seungjo Han
+title: Product Manager
+email: seungjohan.kr@gmail.com
+website: https://seungjohan.github.io/korea
+website_title: KOR Resume
+phone: +82 10-9908-6439
+
+# Social links
+linkedin_username: seungjohan
+
+# twitter_username: konnellwaldron
+github_username: seungjohan
+# dribbble_username: jekyll
+# facebook_username: hhieut
+# flickr_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+
+# Additional icon links
+additional_links:
+  - title: medium
+    icon: "fab fa-medium" # Change Medium logo to "fa-brands fa-medium" later
+    url: https://konnellwaldron.medium.com/
+  - title: brunch
+    icon: "fab fa-blogger" # Change Medium logo to "fa-brands fa-medium" later
+    url: https://brunch.co.kr/@konnellwaldron/
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+gtm: "GTM-KGG8BQX"
+gtag: "G-BRXYDTH14E" #4 proporties G-MN20MXLN3C
+google_analytics: "UA-261328456-1"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I am Seungjo Han, **Generalist Product Manager** delivering innovative products to make a social impact on the customers and to create an improved change from the original fixed system with <mark>full of trial and error</mark>.<br/>
+  #Dynamic #Self-starter #Team-player #Cross-function #Global<br/>
+
+  Over 2 years of experience in PM, I have tried to develop products as mainly a <mark>Cross functional Product Manager</mark> but also **Software Developer and Business developer** in various industries in order to understand the whole flow of products and the way of delivering impact to the end-user. 
+  I always have sought to make <mark>diverse experiences</mark> that are able to create high cooperation and innovative ideas. I feel confident and love to cooperate teammates with in other positions.
+
+  I led projects in variety of Web-Mobile applications, E-commerce based ESG Food tech, Global Business Travel, Music with Metaverse, Sales, Proptech, and Supply Chain. As a Product Manager and leader, I focus on **collaborating with diverse perspectives, designing features that drive value, listening to people’s voices, and reflecting new technologies quickly through feedback.**
+
+  I strongly feel responsible and motivated for technological innovation and social impact which can deliver positive life change to people from all over the world.
+
+# I try constantly to challenge myself.<br/>
+# Experiences in business, software engineering, communication, and leadership have enabled me to become the professional I am today.<br/>
+# My main goal is to leave my mark in line with my personal ideas, drawing on my past experiences to promote the ongoing expansion of innovation in the company.
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+educaton_title: Education
+
+# Relevant Activities
+relevantactivity_title: Relevant Activities
+
+# Projects Section
+projects_title: Projects
+
+# Freelancing Section
+freelancing_title: Freelancing
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  - [[Interview] SWUNIV Interview, Representative of Chung-Ang University](https://www.swuniv.kr/540522002/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=11283510&t=board)
+  - [[Interview] Dokdo Security Guard](https://www.youtube.com/watch?v=gNynVJSoEmk)
+  - [[Presentation] 'Try Everything' Contest at Final Stage](https://www.youtube.com/watch?v=mSL0u0BzCFI)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
