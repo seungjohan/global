@@ -1,0 +1,46 @@
+- layout: left
+  company: Webeing
+  link: https://seungjohan.notion.site/Webeing-e5424ca323644024840746e625a8d1e9?pvs=4
+  job_title: CEO(co-founder), Product Manager, and Software Developer
+  dates: Jan 2020 - Jul 2021
+  quote: >
+    Selling leftover foods closed with expired date or stock items at low prices and encouraging users to save the environment together.
+  description: | # this will include new lines to allow paragraphs
+    * Planned, designed, and engineered full-stack B2B2C platform using Django, Bootstrap, AWS, and Payment Module.([Product Development](https://brunch.co.kr/@konnellwaldron/1) / [Prototype Design](https://brunch.co.kr/@konnellwaldron/2) / [Github](https://github.com/oereo/Webeing))
+    * Had customer development with more than 1000 including resturant owners, Prospective clients, and Agricultural producers and focused on ESG Business Development, Strategy, Digital Marketing, and Sales.
+    * Made DAU 100+, small sales, developed products with partner companies, and achieved a 25% increase in sales. ([Kakao Channel](https://pf.kakao.com/_sSYyxb))
+    *	Received investment from ‘Korean Ministry of SMEs and Startups’, called ‘예비창업자 특화패키지’.
+
+- layout: left
+  company: Next Challenge
+  link: http://www.ncf.or.kr
+  job_title: Management Intern</br>and SEO Developer
+  dates: Jul 2019 - Aug 2019
+  quote: >
+    Global Accelerator based on Jeju, South Korea
+  description: | # this will include new lines to allow paragraphs
+    * Helped manage co-working space, digital nomad program, and supported work for startups.
+    * Utilized AWS(EC2, Elastic beanstalk) and analytics to initial setup and manage the SEO search console process in Google and Naver.
+
+# - layout: left
+#   company: 줌인터넷
+#   link: https://zum.com
+#   job_title: 웹 개발자
+#   dates: 2014.12 ~ 2016.12
+#   quote: >
+#    일일 PV 2000만의 포탈 서비스
+#   description: | # this will include new lines to allow paragraphs
+#      * 포털 메인 페이지, 회원 서비스의 메인 개발자로 개발/운영
+#      * EhCache를 이용한 로컬 캐시, 브라우저 전역 변수를 이용한 클라이언트 캐시등으로 API서버가 죽어도 문제가 없는 메인페이지 구성
+#      * IDC 인프라 환경에서의 개발/운영
+#      * 2016년 본부 추천 <mark>특진</mark>
+# - layout: left
+#   company: KCC정보통신
+#   job_title: 웹 개발자
+#   dates: 2014.02 ~ 2014.12
+#   quote: >
+#    연매출 1000억의 중견 SI 기업
+#   description: | # this will include new lines to allow paragraphs
+#      * 사내 프로젝트 개발 및 100억원의 SI 프로젝트 참여
+#      * 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험
+
