@@ -1,7 +1,0 @@
-<div class="container education-container">
-    <h3>{{ site.education_title | default: "Relevant Skills" }}</h3>
-    <p class="quote">I used these skills for study, projects and works.</p>
-    {% for education in site.data.relevantskill %}
-        {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
-    {% endfor %}
-</div>

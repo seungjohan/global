@@ -1,6 +1,0 @@
-<div class="container projects-container">
-    <h3>{{ site.relevantactivity_title | default: "Relevant Activities" }}</h3>
-    {% for project in site.data.relevantactivity %}
-      {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
-    {% endfor %}
-</div>
