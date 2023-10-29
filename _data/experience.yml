@@ -1,4 +1,16 @@
 - layout: left
+  company: Various Startup(Lively, Curve Analytics, Zentropy, 100cation, Botanic Monsters)
+  link:
+  job_title: Product Management, Web Prototype•SEO Developer as Contract
+  dates: Nov 2022 - Current
+  quote: >
+    As contract, I assist various startup in Product Management and other IT operations for developing product and buiness development.
+  description: | # this will include new lines to allow paragraphs
+    * Contributed to product and digital projects managing sports and AR applications, Content prototypes, and Vendor items.
+    * Conducted interviews with over 100, pivoted grouping features based on user feedback, and increased user activation by 120%.
+    * Supported expanding company into Spain and Vietnam Markets.
+
+- layout: left
   company: Webeing
   link: https://seungjohan.notion.site/Webeing-e5424ca323644024840746e625a8d1e9?pvs=4
   job_title: CEO(co-founder), Product Manager, and Software Developer
@@ -6,9 +18,10 @@
   quote: >
     Selling leftover foods closed with expired date or stock items at low prices and encouraging users to save the environment together.
   description: | # this will include new lines to allow paragraphs
-    * Planned, designed, and engineered full-stack B2B2C platform using Django, Bootstrap, AWS, and Payment Module.([Product Development](https://brunch.co.kr/@konnellwaldron/1) / [Prototype Design](https://brunch.co.kr/@konnellwaldron/2) / [Github](https://github.com/oereo/Webeing))
-    * Had customer development with more than 1000 including resturant owners, Prospective clients, and Agricultural producers and focused on ESG Business Development, Strategy, Digital Marketing, and Sales.
-    * Made DAU 100+, small sales, developed products with partner companies, and achieved a 25% increase in sales. ([Kakao Channel](https://pf.kakao.com/_sSYyxb))
+    * Led planning, design, and engineering of E-commerce B2B2C digital Web and Mobile products using HTML, CSS, JavaScript, Python, Django, AWS, and Payment module.([Product Development](https://brunch.co.kr/@konnellwaldron/1) / [Prototype Design](https://brunch.co.kr/@konnellwaldron/2) / [Github](https://github.com/oereo/Webeing))
+    * Oversaw product development of Web•Mobile across 10 restaurants including product roadmap through developing 5 prototypes in beta test based on customer feedback, new feature launches, setting market partners, developing dashboard, conducting A/B test, and KPI management cross-functionally with engineering, business, and design teams.
+    * Pivoted BM and UX/UI design according to user feedback by conducting over 1000 interviews and achieved DAU 100+, CRR +200%, and +35% increase in sales by localizing marketing strategy, pivoting product, and making other marketing channels. ([Kakao Channel](https://pf.kakao.com/_sSYyxb))
+    * Led ESG business development by holding environment events and applying features of trading env point accumulation.
     *	Received investment from ‘Korean Ministry of SMEs and Startups’, called ‘예비창업자 특화패키지’.
 
 - layout: left
