@@ -14,7 +14,7 @@ phone: +82 10-9908-6439
 # Social links
 linkedin_username: seungjohan
 
-# twitter_username: konnellwaldron
+# twitter_username: konnellkelly
 github_username: seungjohan
 # dribbble_username: jekyll
 # facebook_username: hhieut
@@ -26,10 +26,10 @@ github_username: seungjohan
 additional_links:
   - title: medium
     icon: "fab fa-medium" # Change Medium logo to "fa-brands fa-medium" later
-    url: https://konnellwaldron.medium.com/
+    url: https://konnellkelly.medium.com/
   - title: brunch
     icon: "fab fa-blogger" # Change Medium logo to "fa-brands fa-medium" later
-    url: https://brunch.co.kr/@konnellwaldron/
+    url: https://brunch.co.kr/@konnellkelly/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,7 +44,7 @@ google_analytics: "UA-261328456-1"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am Data Driven Product Manager, having <mark>Ownership</mark>, Creativity, and <mark>Cross-function</mark> with expertise in solving problems, product management across software and business, design, and Digital Analysis.<br/>
+  I am Strategic Product Manager, having <mark>Ownership</mark>, Diverse experiences, and <mark>Cross-function</mark> with expertise in solving problems, product management across software and business, design, and Digital Analysis.<br/>
   Proven successes in leading market initiatives in collaboration with cross-functional teams and external markets, constant test & learn, and developing service based on customer's feedback.
 
   As a Product Manager and leader, I focus on **collaborating with diverse perspectives, designing features that drive value, listening to people’s voices, and reflecting on new technologies at a fast pace through feedback.** <br/>
