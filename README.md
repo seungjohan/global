@@ -1,18 +1,29 @@
-# Resume
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
-![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
+# Bilingual Resume
 
-## Introduce
-- Name: Seungjo Han
-- Email: seungjohan.kr@gmail.com
-- GitHub: [github.com/seungjohan](https://github.com/seungjohan)
-- LinkedIn: [linkedin.com/in/seungjohan](https://linkedin.com/in/seungjohan)
-- Resume page: [seungjohan.github.io/global](https://seungjohan.github.io/global)
+Single resume project based on the original `global` project structure, with Korean content added as a second language.
 
-### References
-* [Template, Copyright from sproogen](https://github.com/sproogen/modern-resume-theme)
-* [jojoldu](https://github.com/jojoldu/jojoldu.github.io)
+## What changed
 
-- I use template from sproogen and refer to jojoldu's code.
-- Copyright to 'sproogen', 'jojoldu', and 'seungjohan'. Thanks to 'sproogen' and 'jojoldu'
+- The root project keeps the global Jekyll structure: `_config.yml`, `_data`, `_includes`, `_layouts`, `assets`, and `images`.
+- English data stays in the original global `_data/*.yml` files.
+- Korean data is added in `_data/ko`.
+- `_site` follows the original global built-output shape, adjusted to contain the combined bilingual page.
+- The language switcher changes the visible resume instantly without leaving the page.
+- The Korean resume no longer shows the phone number.
+- The Korean title now says `Product Manager`.
+
+## Built output
+
+The generated/static page is in `_site/index.html`, matching the original project convention.
+
+## Jekyll source
+
+The Jekyll source entry is `index.md`.
+
+```sh
+bundle exec jekyll build
+```
+
+## Credits
+
+Built from the original resume pages using the sproogen modern resume theme output.

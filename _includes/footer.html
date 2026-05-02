@@ -1,0 +1,9 @@
+<div class="container footer-container">
+  <p>
+    {{ include.profile.name }} -
+    <a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a>
+    {%- if site.footer_show_references -%}
+      &nbsp;- {{ include.profile.references | default: "References on request" }}
+    {%- endif -%}
+  </p>
+</div>

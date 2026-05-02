@@ -1,6 +1,7 @@
 <div class="container projects-container">
-    <h3>{{ site.relevantactivity_title | default: "Relevant Activities" }}</h3>
-    {% for project in site.data.relevantactivity %}
+    <h3>{{ include.profile.relevantactivity_title | default: site.relevantactivity_title | default: "Relevant Activities" }}</h3>
+    {% assign items = include.items | default: site.data.relevantactivity %}
+    {% for project in items %}
       {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
     {% endfor %}
 </div>

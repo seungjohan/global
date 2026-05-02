@@ -1,6 +1,7 @@
 <div class="container projects-container">
-    <h3>{{ site.freelancing_title | default: "Freelancing" }}</h3>
-    {% for project in site.data.freelancing %}
+    <h3>{{ include.profile.freelancing_title | default: site.freelancing_title | default: "Freelancing" }}</h3>
+    {% assign items = include.items | default: site.data.freelancing %}
+    {% for project in items %}
       {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
     {% endfor %}
 </div>

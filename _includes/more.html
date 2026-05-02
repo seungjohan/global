@@ -1,8 +1,8 @@
 <div class="container more-container">
-    <h3>{{ site.more_title | default: "Featured" }}</h3>
+    <h3>{{ include.profile.more_title | default: site.more_title | default: "Featured" }}</h3>
     <div class="row clearfix">
       <div class="col-md-12">
-        {{ site.more_content | strip | markdownify }}
+        {{ include.profile.more_content | default: site.more_content | strip | markdownify }}
       </div>
     </div>
   </div>

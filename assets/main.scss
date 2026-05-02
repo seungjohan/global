@@ -3,3 +3,79 @@
 ---
 
 @import 'modern-resume-theme';
+
+.language-switch {
+  position: sticky;
+  top: 16px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  margin: 18px auto 0;
+  padding: 8px 10px;
+  border: 1px solid rgba(51, 51, 51, 0.16);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 8px 26px rgba(0, 0, 0, 0.08);
+  backdrop-filter: blur(12px);
+}
+
+.language-switch__buttons {
+  display: flex;
+  gap: 4px;
+}
+
+.language-switch button {
+  padding: 9px 14px;
+  border-radius: 999px;
+  background: transparent;
+  color: #333;
+  font-size: 1.3rem;
+  line-height: 1;
+  font-weight: 600;
+  transition: background-color 150ms ease, color 150ms ease;
+}
+
+.language-switch button[aria-pressed="true"],
+.language-switch button:hover,
+.language-switch button:focus {
+  background: #333;
+  color: #fff;
+}
+
+.resume-panel[hidden] {
+  display: none !important;
+}
+
+.dark .language-switch {
+  border-color: rgba(230, 230, 230, 0.2);
+  background: rgba(34, 34, 34, 0.9);
+  box-shadow: 0 8px 26px rgba(0, 0, 0, 0.32);
+}
+
+.dark .language-switch button {
+  color: #e6e6e6;
+}
+
+.dark .language-switch button[aria-pressed="true"],
+.dark .language-switch button:hover,
+.dark .language-switch button:focus {
+  background: #e6e6e6;
+  color: #222;
+}
+
+@media screen and (max-width: 767px) {
+  .language-switch {
+    position: static;
+    width: fit-content;
+    margin-top: 14px;
+    padding: 6px;
+  }
+
+  .language-switch button {
+    flex: 0 0 auto;
+    padding: 8px 12px;
+    font-size: 1.2rem;
+  }
+}

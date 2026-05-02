@@ -1,76 +1,67 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: en_US }}">
+<html lang="{{ site.languages[site.default_language].html_lang | default: 'en' }}">
 
 {%- include head.html -%}
-    <meta property="og:image:url" content="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fboomub%2FbtrQ655agW5%2FF9lnGzCWf9J8ZvkyQOyC2k%2Fimg.jpg">
-  
-    <!-- HTML Meta Tags -->
-    <title>Junior Product Manager</title>
-    <meta name="description" content="Repo for English resume page.">
-
-    <!-- Facebook Meta Tags -->
-    <meta property="og:url" content="https://seungjohan.github.io/global/">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Junior Product Manager">
-    <meta property="og:description" content="Repo for English resume page.">
-
-    <!-- Twitter Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://seungjohan.github.io/global/">
-    <meta name="twitter:title" content="Junior Product Manager">
-    <meta name="twitter:description" content="Repo for English resume page.">
-    <meta name="twitter:image:url" content="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fboomub%2FbtrQ655agW5%2FF9lnGzCWf9J8ZvkyQOyC2k%2Fimg.jpg">
-
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BRXYDTH14E"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-BRXYDTH14E');
-    </script>
 
 <body>
+  <div class="language-switch no-print" aria-label="Language switcher">
+    <div class="language-switch__buttons" role="group" aria-label="Choose language">
+      {%- for language in site.languages -%}
+        {%- assign language_code = language[0] -%}
+        {%- assign profile = language[1] -%}
+        <button type="button" data-lang-button="{{ language_code }}" aria-pressed="{% if language_code == site.default_language %}true{% else %}false{% endif %}">{{ profile.label }}</button>
+      {%- endfor -%}
+    </div>
+  </div>
 
-    {%- include header.html -%}
+  {%- for language in site.languages -%}
+    {%- assign language_code = language[0] -%}
+    {%- assign profile = language[1] -%}
+    {%- if language_code == site.default_language -%}
+      {%- assign resume_data = site.data -%}
+    {%- else -%}
+      {%- assign resume_data = site.data[language_code] -%}
+    {%- endif -%}
+    <section class="resume-panel" data-lang-panel="{{ language_code }}" aria-label="{{ profile.label }} resume" {% if language_code != site.default_language %}hidden{% endif %}>
+      {%- include header.html profile=profile -%}
 
-    <main class="page-content" aria-label="Content">
+      <main class="page-content" aria-label="Content">
         <div class="wrapper">
+          {%- include about.html profile=profile -%}
 
-            {%- include about.html -%}
+          {%- if resume_data.experience.size > 0 -%}
+            {%- include experience.html items=resume_data.experience profile=profile -%}
+          {%- endif -%}
 
-            {%- if site.data.experience.size > 0 -%}
-                {%- include experience.html -%}
-            {%- endif -%}
+          {%- if resume_data.relevantskill.size > 0 -%}
+            {%- include relevantskill.html items=resume_data.relevantskill profile=profile -%}
+          {%- endif -%}
 
-            {%- if site.data.relevantskill.size > 0 -%}
-                {%- include relevantskill.html -%}
-            {%- endif -%}
+          {%- if resume_data.education.size > 0 -%}
+            {%- include education.html items=resume_data.education profile=profile -%}
+          {%- endif -%}
 
-            {%- if site.data.education.size > 0 -%}
-                {%- include education.html -%}
-            {%- endif -%}
+          {%- if resume_data.relevantactivity.size > 0 -%}
+            {%- include relevantactivity.html items=resume_data.relevantactivity profile=profile -%}
+          {%- endif -%}
 
-            {%- if site.data.relevantactivity.size > 0 -%}
-                {%- include relevantactivity.html -%}
-            {%- endif -%}
+          {%- if resume_data.projects.size > 0 -%}
+            {%- include projects.html items=resume_data.projects profile=profile -%}
+          {%- endif -%}
 
-            {%- if site.data.projects.size > 0 -%}
-                {%- include projects.html -%}
-            {%- endif -%}
+          {%- if resume_data.freelancing.size > 0 -%}
+            {%- include freelancing.html items=resume_data.freelancing profile=profile -%}
+          {%- endif -%}
 
-            {%- if site.data.freelancing.size > 0 -%}
-            {%- include freelancing.html -%}
-            {%- endif -%}
-
-            {%- include more.html -%}
-
+          {%- include more.html profile=profile -%}
         </div>
-    </main>
+      </main>
 
-    {%- include footer.html -%}
+      {%- include footer.html profile=profile -%}
+    </section>
+  {%- endfor -%}
 
+  <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
 </body>
 
 </html>

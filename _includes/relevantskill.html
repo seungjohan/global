@@ -1,7 +1,8 @@
 <div class="container education-container">
-    <h3>{{ site.education_title | default: "Relevant Skills" }}</h3>
-    <p class="quote">I used these skills for study, projects and works.</p>
-    {% for education in site.data.relevantskill %}
+    <h3>{{ include.profile.relevantskill_title | default: "Relevant Skills" }}</h3>
+    <p class="quote">{{ include.profile.relevantskill_quote | default: "I used these skills for study, projects and works." }}</p>
+    {% assign items = include.items | default: site.data.relevantskill %}
+    {% for education in items %}
         {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
     {% endfor %}
 </div>
