@@ -1,5 +1,7 @@
 # Site
 repository: seungjohan/resume
+url: "https://seungjohan.github.io"
+baseurl: "/resume"
 favicon: images/favicon.ico
 og:images: images/profile.jpg
 
@@ -147,3 +149,4 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
